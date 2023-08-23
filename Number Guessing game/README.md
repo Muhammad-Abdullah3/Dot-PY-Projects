@@ -5,7 +5,10 @@ A simple number guessing game implemented in Python. The game prompts the player
 ## How to Play
 
 1. Clone the repository to your local machine using the following command:
-https://github.com/Muhammad-Abdullah3/Dot-Py-Projects/Number Guessing game.git
+https://github.com/your-username/Dot-Py-Projects/Number Guessing game.git
 
 2. Navigate to the project directory:
-cd
+cd Dot-Py-Projects/NumberGuessingGame
+
+3. Run the game by executing the Python script:
+Number Guessing Game.py
